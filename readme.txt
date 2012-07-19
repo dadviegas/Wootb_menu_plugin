@@ -1,4 +1,4 @@
-Web out of the box jquery menu Plugin
+Web out of the box jquery corner Plugin
 
 In this example json is used to add the menu items dynamically.
 
